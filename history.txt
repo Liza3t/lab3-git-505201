@@ -1,0 +1,21 @@
+*   6cd2e16 Merge task5 into release
+|\  
+| * 2779db2 Add 'экзамен' after revert to 3rd commit
+* |   1dc2406 Merge feature2
+|\ \  
+| * | cccbb64 feature2 change
+* | |   e22c4cd Merge feature1
+|\ \ \  
+| * | | 6bf8519 feature1 change
+| |/ /  
+* | / e2c9998 Add 'не экзамен'
+| |/  
+|/|   
+* | 7e0c5e5 Add 'экзамен'
+|/  
+* b0b0d4a add data.txt 5
+* a966574 add data.txt 4
+* 616ecc3 add data.txt 3
+* d22ec81 add data.txt 2
+* 5d3d419 add data.txt 1
+* c07284b init
